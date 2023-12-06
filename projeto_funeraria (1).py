@@ -6,7 +6,7 @@ from difflib import SequenceMatcher as SM
 basicos = []
 premiums = []
 
-print("#####################################")
+print("######################################")
 print("#         ☻☺ BEM VINDO ☺☻           #")
 print("#   ◘ ESCOLHA SEU PLANO FUNERÁRIO ◘ #")
 print("#####################################")
